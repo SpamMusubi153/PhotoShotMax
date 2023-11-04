@@ -27,14 +27,16 @@ This short project was started on 11/3/2023 for a Seattle University A.n.I.Ma.L 
 
 **To use this program**:
 
-1. Download this program and install the OpenCV Package:
+1. Download this program by clicking the "Code" button and selecting "Download Zip". Then, unzip the downloaded file.
+
+2. Install the official OpenCV package into your local Python environment
 
     ``pip install opencv-python``
 
-2. Update the "source" watched folder that receives images from the camera and the "target" watched folder that is connected to Power Automate or another automation tool.
+3. Update the "source" watched folder that receives images from the camera and the "target" watched folder that is connected to Power Automate or another automation tool.
 
-3. Update the questions, question types, and summary labels in a way that works best for your data.
+4. Update the questions, question types, and summary labels in a way that works best for your data.
 
-4. Run the program and add pictures to the watched folder.
+5. Run the program and add pictures to the watched folder.
 
-5. Watch your users smile as they receive their pictures in real-time!
+6. Watch your users smile as they receive their pictures in real-time!
