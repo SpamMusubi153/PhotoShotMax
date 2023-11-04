@@ -8,7 +8,6 @@ This short project was started on 11/3/2023 for a Seattle University A.n.I.Ma.L 
 
 ---
 
-<br>
 
 **Here is how the program works:**
 
